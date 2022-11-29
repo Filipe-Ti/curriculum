@@ -1,0 +1,44 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    width: 50%;
+    align-content: center;
+}
+
+header .title {
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 1.8rem ;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.my-photo {
+    height: 10rem;
+    padding-left: 50%;
+}
+
+
+footer {
+    background-color: black;
+    color: #FFF;
+    text-align: center;
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+}
